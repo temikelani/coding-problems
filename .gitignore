@@ -14,4 +14,4 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-.DS_Store
+*.DS_Store
